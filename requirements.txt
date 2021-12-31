@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-sklearn
-pickle
+scikit-learn
+gunicorn
